@@ -1,0 +1,51 @@
+header{    
+    background-position: center center;
+}
+
+h1{
+    background-color: rgb(112, 254, 245);
+    margin-top: 80px;
+    padding-left: 11rem; 
+}
+
+h2{    
+    margin-top: 10px;    
+}
+
+h3{    
+    font-weight: bold;
+    color: #6749b3;    
+}
+
+
+li{
+    list-style-image: url(../img/kihalt.jpg);
+    
+}
+
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;    
+}
+
+.navbar{
+    font-weight: bold;
+}
+
+
+
+.btn-outline-success{
+    background-color: #00fde8 !important;
+    color:#2d277b;
+    border:#2d277b;
+}
+
+.btn-outline-success:hover{
+    border:#2d277b;
+    background-color: #2d277b !important;
+    color:#00fde8;
+}
