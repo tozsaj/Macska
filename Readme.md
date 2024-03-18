@@ -2,3 +2,4 @@
 ## Macska weboldal elkészítése
 
 - Git verziókövetés
+- feladtaok
